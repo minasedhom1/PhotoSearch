@@ -15,7 +15,7 @@
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='http://g.recordit.co/oYI9ow1dyD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/8YZOcChawZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## APIs used in the app: 
 https://unsplash.com/
